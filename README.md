@@ -7,6 +7,8 @@ utilities (e.g. testing).
 The design goal is to work towards separately compilable plugins, but initially we'll just be porting the
 networking related contrib directories since TensorFlow 2.0 will be dropping contrib.
 
+[![Build Status](http://35.201.169.191:8080/buildStatus/icon?job=tf-networking)](http://35.201.169.191:8080/job/tf-networking/)
+
 Building
 ===
 
